@@ -1,0 +1,18 @@
+{
+  "repo": "louisiana-pacific",
+  "feeds": [
+    {
+      "source": "https://www.lpcorp.com/about-lp/media-resources/news-releases",
+      "feed_url": "https://www.lpcorp.com/about-lp/media-resources/news-releases",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.linkedin.com/company/louisiana-pacific-corporation",
+      "error": "HTTPError"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 8
+}
